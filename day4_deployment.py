@@ -41,7 +41,7 @@ def lemmatizer(text):
 
 
 st.title("Sentiment Analysis App")
-st.markdown("By Nirmal Gaud")
+st.markdown("By Gajula Hema Sowmya")
 
 st.subheader("Enter your text here:")
 user_input = st.text_area("")
